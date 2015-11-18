@@ -1,0 +1,11 @@
+# Build and Release Folders
+bin-debug/
+launcher/
+libs/
+
+# Other files and folders
+build.bat
+build_engine.bat
+egretProperties.json
+run.bat
+wingProperties.json

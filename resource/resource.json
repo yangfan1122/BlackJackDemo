@@ -1,0 +1,15 @@
+{
+	"resources": [
+		{
+			"name": "pokers",
+			"type": "sheet",
+			"url": "assets/poker_game.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "pokers"
+		}
+	]
+}
